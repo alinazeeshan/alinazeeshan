@@ -19,10 +19,10 @@ jobs:
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: alinazeeshan
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#39FF14&color_dots=#161B22,#0E4429,#006D32,#26A641,#39FF14
+            dist/github-snake-dark.svg?color_snake=#39FF14&color_dots=#161B22,#0E4429,#006D32,#26A641,#39FF14
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
