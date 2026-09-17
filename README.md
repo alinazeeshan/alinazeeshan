@@ -49,35 +49,26 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,django,mongodb,git,github,vscode,figma&perline=13"/>
 </p>
 
-<h2 align="center">📈 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=alinazeeshan&show_icons=true&theme=tokyonight&hide_border=true&title_color=B983FF&icon_color=B983FF&text_color=FFFFFF&bg_color=0D1117"
-    alt="Alina's GitHub Stats"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=alinazeeshan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B983FF&icon_color=B983FF&text_color=FFFFFF"
+    alt="GitHub Analytics"
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinazeeshan&layout=compact&theme=tokyonight&hide_border=true&title_color=B983FF&text_color=FFFFFF&bg_color=0D1117"
-    alt="Top Languages"
-  />
-</p>
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=alinazeeshan&theme=tokyonight&hide_border=true&background=0D1117&ring=B983FF&fire=B983FF&currStreakLabel=B983FF&sideLabels=B983FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
+  <img
+    src="https://streak-stats.demolab.com?user=alinazeeshan&hide_border=true&background=0D1117&ring=B983FF&fire=B983FF&currStreakLabel=B983FF&sideLabels=B983FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
     alt="GitHub Streak"
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=alinazeeshan&bg_color=0D1117&color=B983FF&line=B983FF&point=B983FF&area=true&area_color=6A2C91&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
 
 
 <h2 align="center">🐍 Contribution Graph</h2>
