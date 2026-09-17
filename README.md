@@ -62,3 +62,5 @@ Once set up, it auto-updates daily.
 <p align="center">See you in the next commit 💜</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:6A2C91,100:B983FF&height=140&section=footer" />
+
+<!-- profile README -->
