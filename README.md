@@ -67,13 +67,13 @@
 </p>
 
 
-
 <h2 align="center">📊 Contribution Graph</h2>
 
 <p align="center">
-  <a href="https://github.com/alinazeeshan">
-    <img src="https://ghchart.rshah.org/B983FF/alinazeeshan" alt="Alina's GitHub Contribution Graph" />
-  </a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alinazeeshan&theme=github_dark&bg_color=0D1117&chart_color=B983FF&title_color=B983FF&text_color=FFFFFF&border_color=B983FF"
+    alt="Contribution Graph"
+  />
 </p>
 
 <h2 align="center">🐍 Contribution chart</h2>
