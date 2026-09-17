@@ -1,0 +1,39 @@
+name: Contribution Line Graph
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests matplotlib
+
+      - name: Generate chart
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          GITHUB_USERNAME: alinazeeshan
+          OUTPUT_PATH: contribution-line-graph.svg
+          DAYS: "30"
+          LINE_COLOR: "#B983FF"
+        run: python .github/scripts/generate_contribution_graph.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add contribution-line-graph.svg
+          git diff --staged --quiet || git commit -m "Update contribution line graph"
+          git push
