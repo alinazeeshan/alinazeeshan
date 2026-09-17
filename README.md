@@ -48,7 +48,6 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,django,mongodb,git,github,vscode,figma&perline=13"/>
 </p>
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -64,8 +63,19 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=alinazeeshan&hide_border=true&background=0D1117&ring=B983FF&fire=B983FF&currStreakLabel=B983FF&sideLabels=B983FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
+    src="https://streak-stats.demolab.com/?user=alinazeeshan&hide_border=true&background=0D1117&ring=B983FF&fire=B983FF&currStreakLabel=B983FF&sideLabels=B983FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
     alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=alinazeeshan&bg_color=0D1117&color=B983FF&line=B983FF&point=B983FF&area=true&area_color=6A2C91&hide_border=true"
+    alt="Contribution Activity"
   />
 </p>
 
