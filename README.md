@@ -61,7 +61,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=alinazeeshan&theme=radical&hide_border=true&background=0D1117&ring=B983FF&fire=B983FF&currStreakLabel=B983FF&sideLabels=B983FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
+    src="https://streak-stats.demolab.com/?user=alinazeeshan&hide_border=true&background=0D1117&ring=B983FF&fire=B983FF&currStreakLabel=B983FF&sideLabels=B983FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
     alt="GitHub Streak"
   />
 </p>
@@ -70,7 +70,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=alinazeeshan&bg_color=0D1117&color=B983FF&line=B983FF&point=FFFFFF&area=true&hide_border=true"
+    src="https://raw.githubusercontent.com/alinazeeshan/alinazeeshan/main/profile-summary-cards/activity-graph.svg"
     alt="Contribution Graph"
   />
 </p>
