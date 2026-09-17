@@ -66,16 +66,14 @@
   />
 </p>
 
-<h2 align="center">📊 Profile Summary</h2>
+
+
+<h2 align="center">📊 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alinazeeshan/alinazeeshan/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" width="48%"/>
-  <img src="https://raw.githubusercontent.com/alinazeeshan/alinazeeshan/main/profile-summary-card-output/default/3-stats.svg" alt="Stats" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alinazeeshan/alinazeeshan/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most Commit Language" width="48%"/>
-  <img src="https://raw.githubusercontent.com/alinazeeshan/alinazeeshan/main/profile-summary-card-output/default/4-productive-time.svg" alt="Productive Time" width="48%"/>
+  <a href="https://github.com/alinazeeshan">
+    <img src="https://ghchart.rshah.org/B983FF/alinazeeshan" alt="Alina's GitHub Contribution Graph" />
+  </a>
 </p>
 
 <h2 align="center">🐍 Contribution chart</h2>
