@@ -1,4 +1,4 @@
-name: Update GitHub Contributions
+name: Update GitHub Contribution Count
 
 on:
   schedule:
@@ -6,25 +6,22 @@ on:
 
   workflow_dispatch:
 
-  push:
-    branches:
-      - main
-
 permissions:
   contents: write
 
 jobs:
-  update-contributions:
+  update:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Get GitHub contribution count
+      - name: Get GitHub contribution total
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+
           RESPONSE=$(curl -s \
             -H "Authorization: bearer $GH_TOKEN" \
             -H "Content-Type: application/json" \
@@ -34,10 +31,11 @@ jobs:
           CONTRIBUTIONS=$(echo "$RESPONSE" | jq -r \
             '.data.user.contributionsCollection.contributionCalendar.totalContributions')
 
-          echo "GitHub contribution count: $CONTRIBUTIONS"
+          echo "Total contributions: $CONTRIBUTIONS"
 
           if [ "$CONTRIBUTIONS" = "null" ] || [ -z "$CONTRIBUTIONS" ]; then
-            echo "Failed to get GitHub contributions"
+            echo "Could not get contribution count."
+            echo "$RESPONSE"
             exit 1
           fi
 
@@ -45,15 +43,16 @@ jobs:
             "s/<!-- CONTRIBUTIONS_START -->.*<!-- CONTRIBUTIONS_END -->/<!-- CONTRIBUTIONS_START -->$CONTRIBUTIONS<!-- CONTRIBUTIONS_END -->/" \
             README.md
 
-      - name: Commit changes
+      - name: Save updated README
         run: |
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add README.md
 
           if git diff --cached --quiet; then
-            echo "No changes"
+            echo "Contribution count has not changed."
           else
             git commit -m "Update GitHub contribution count"
             git push
