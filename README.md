@@ -70,14 +70,7 @@
 
 ---
 
-## 📈 Contribution Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=alinazeeshan&bg_color=0D1117&color=B983FF&line=B983FF&point=B983FF&area=true&area_color=6A2C91&hide_border=true"
-    alt="Contribution Activity"
-  />
-</p>
 
 
 
