@@ -1,6 +1,10 @@
 <p align="center">
   <picture>
-    <img src="https://raw.githubusercontent.com/alinazeeshan/alinazeeshan/main/purple-banner.png" alt="Alina Zeeshan Banner" width="100%">
+    <img
+      src="https://raw.githubusercontent.com/alinazeeshan/alinazeeshan/main/purple-banner.png"
+      alt="Alina Zeeshan Banner"
+      width="100%"
+    >
   </picture>
 </p>
 
@@ -9,7 +13,7 @@
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=400&size=28&duration=3500&pause=1000&color=B983FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;MERN+Stack+Developer;AI+Builder;Open+Source+Enthusiast;Problem+Solver"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=400&size=28&duration=3500&pause=1000&color=B983FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;MERN+Stack+Developer;AI+Builder;Open+Source+Enthusiast;Problem+Solver"/>
 </p>
 
 <p align="center">
@@ -36,7 +40,11 @@
 
 <td width="35%" align="center" valign="middle">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1A1A2E,50:6A2C91,100:B983FF&height=180&section=header&text=ALINA&fontSize=45&fontColor=FFFFFF&animation=fadeIn" width="160" alt="Alina"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=rounded&color=0:1A1A2E,50:6A2C91,100:B983FF&height=180&section=header&text=ALINA&fontSize=45&fontColor=FFFFFF&animation=fadeIn"
+  width="160"
+  alt="Alina"
+/>
 
 </td>
 
@@ -46,30 +54,25 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,django,mongodb,git,github,vscode,figma&perline=13"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,django,mongodb,git,github,vscode,figma&perline=13"/>
 </p>
 
-
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/alinazeeshan&query=$.public_repos&label=GitHub%20Repositories&color=B983FF&style=for-the-badge"
-    alt="GitHub Repositories"
+    src="https://github-readme-stats.vercel.app/api?username=alinazeeshan&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=B983FF&icon_color=B983FF&text_color=FFFFFF"
+    alt="Alina Zeeshan GitHub Stats"
   />
 </p>
 
 <p align="center">
-  🌟 <strong>GitHub Contributions:</strong>
+  <strong>🌟 GitHub Contributions:</strong>
   <!-- CONTRIBUTIONS_START -->145<!-- CONTRIBUTIONS_END -->
 </p>
 
-
-
-
-
-
-
 <h2 align="center">🔥 GitHub Streak</h2>
+
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=alinazeeshan&hide_border=true&background=0D1117&ring=B983FF&fire=B983FF&currStreakLabel=B983FF&sideLabels=B983FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
@@ -77,16 +80,13 @@
   />
 </p>
 
----
-
-
-
-
-
 <h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alinazeeshan/alinazeeshan/output/github-snake.svg" alt="Purple Snake Animation">
+  <img
+    src="https://raw.githubusercontent.com/alinazeeshan/alinazeeshan/output/github-snake.svg"
+    alt="Purple Snake Animation"
+  />
 </p>
 
 <h2 align="center">🌐 Let's Connect</h2>
@@ -94,19 +94,22 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/alina-zeeshan-7b71a6284/">
-<img src="https://img.shields.io/badge/LinkedIn-B983FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-B983FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/alinazeeshan">
-<img src="https://img.shields.io/badge/GitHub-B983FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-B983FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 <p align="center">
-See you in the next commit 💜
+  See you in the next commit 💜
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:6A2C91,100:B983FF&height=140&section=footer"/>
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:6A2C91,100:B983FF&height=140&section=footer"
+  />
 </p>
