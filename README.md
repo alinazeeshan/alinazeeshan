@@ -75,7 +75,7 @@
 <p align="center">
   <strong>🌟 Total GitHub Contributions</strong><br>
   <span style="color:#B983FF; font-size:28px;">
-    <!-- CONTRIBUTIONS_START --><!-- CONTRIBUTIONS_END -->
+    <!-- CONTRIBUTIONS_START -->147<!-- CONTRIBUTIONS_END -->
   </span>
 </p>
 
