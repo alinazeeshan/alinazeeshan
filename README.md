@@ -51,11 +51,7 @@
 
 📈 GitHub Analytics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alinazeeshan&show_icons=true&bg_color=0D1117&title_color=B983FF&text_color=FFFFFF&icon_color=B983FF&border_color=B983FF" height="180" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinazeeshan&layout=compact&bg_color=0D1117&title_color=B983FF&text_color=FFFFFF&border_color=B983FF" height="180" alt="Top Languages" /> </p>
-
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=alinazeeshan&background=0D1117&border=B983FF&stroke=B983FF&ring=B983FF&fire=B983FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=B983FF&sideLabels=B983FF&dates=AAAAAA" alt="GitHub Streak" /> </p>
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=alinazeeshan&bg_color=0D1117&color=B983FF&line=B983FF&point=B983FF&area=true&area_color=6A2C91&title_color=B983FF&custom_title=Alina's%20Contribution%20Activity" width="100%" alt="Contribution Activity" /> </p>
+<h2 align="center">📊 GitHub Analytics</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alinazeeshan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=B983FF&text_color=FFFFFF&icon_color=B983FF" alt="Alina's GitHub Stats" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinazeeshan&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=B983FF&text_color=FFFFFF" alt="Alina's Top Languages" width="49%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=alinazeeshan&bg_color=0D1117&color=B983FF&line=B983FF&point=FFFFFF&area=true&hide_border=true" alt="Alina's GitHub Activity Graph" width="95%" /> </p>
 
 <h2 align="center">🐍 Contribution Graph</h2>
 
