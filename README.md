@@ -71,9 +71,10 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alinazeeshan&theme=github_dark&bg_color=0D1117&chart_color=B983FF&title_color=B983FF&text_color=FFFFFF&border_color=B983FF&icon_color=B983FF"
+    src="https://raw.githubusercontent.com/alinazeeshan/alinazeeshan/main/contribution-line-graph.svg"
     alt="Contribution Graph"
   />
+</p>
 </p>
 
 <h2 align="center">🐍 Contribution chart</h2>
