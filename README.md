@@ -48,16 +48,7 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,django,mongodb,git,github,vscode,figma&perline=13"/>
 </p>
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=alinazeeshan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B983FF&icon_color=B983FF&text_color=FFFFFF"
-    alt="GitHub Analytics"
-  />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
