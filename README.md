@@ -51,6 +51,23 @@
 
 
 
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/alinazeeshan&query=$.public_repos&label=GitHub%20Repositories&color=B983FF&style=for-the-badge"
+    alt="GitHub Repositories"
+  />
+</p>
+
+<p align="center">
+  🌟 <strong>GitHub Contributions:</strong>
+  <!-- CONTRIBUTIONS_START -->145<!-- CONTRIBUTIONS_END -->
+</p>
+
+
+
+
+
+
 
 <h2 align="center">🔥 GitHub Streak</h2>
 <p align="center">
