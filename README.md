@@ -49,19 +49,13 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,django,mongodb,git,github,vscode,figma&perline=13"/>
 </p>
 
-<h2 align="center">📈 GitHub Analytics</h2>
+📈 GitHub Analytics
 
-<p align="center">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alinazeeshan&show_icons=true&bg_color=0D1117&title_color=B983FF&text_color=FFFFFF&icon_color=B983FF&border_color=B983FF" height="180" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinazeeshan&layout=compact&bg_color=0D1117&title_color=B983FF&text_color=FFFFFF&border_color=B983FF" height="180" alt="Top Languages" /> </p>
 
-<img src="https://streak-stats.demolab.com?user=alinazeeshan&hide_border=true&background=0D1117&ring=B983FF&fire=B983FF&currStreakLabel=B983FF&sideLabels=B983FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=alinazeeshan&background=0D1117&border=B983FF&stroke=B983FF&ring=B983FF&fire=B983FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=B983FF&sideLabels=B983FF&dates=AAAAAA" alt="GitHub Streak" /> </p>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alinazeeshan&bg_color=0D1117&color=B983FF&line=B983FF&point=B983FF&area=true&area_color=6A2C91&hide_border=true"/>
-
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=alinazeeshan&bg_color=0D1117&color=B983FF&line=B983FF&point=B983FF&area=true&area_color=6A2C91&title_color=B983FF&custom_title=Alina's%20Contribution%20Activity" width="100%" alt="Contribution Activity" /> </p>
 
 <h2 align="center">🐍 Contribution Graph</h2>
 
