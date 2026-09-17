@@ -50,8 +50,9 @@
 </p>
 
 
-## 🔥 GitHub Streak
 
+
+<h2 align="center">🔥 GitHub Streak</h2>
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=alinazeeshan&hide_border=true&background=0D1117&ring=B983FF&fire=B983FF&currStreakLabel=B983FF&sideLabels=B983FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
