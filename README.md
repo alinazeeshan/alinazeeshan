@@ -70,11 +70,9 @@
 <h2 align="center">📊 Contribution Graph</h2>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/alinazeeshan/alinazeeshan/main/contribution-line-graph.svg"
-    alt="Contribution Graph"
-  />
-</p>
+  <a href="https://github.com/alinazeeshan">
+    <img src="https://ghchart.rshah.org/B983FF/alinazeeshan" alt="Alina's GitHub Contribution Graph" />
+  </a>
 </p>
 
 <h2 align="center">🐍 Contribution chart</h2>
