@@ -57,19 +57,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,django,mongodb,git,github,vscode,figma&perline=13"/>
 </p>
 
-<h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=alinazeeshan&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=B983FF&icon_color=B983FF&text_color=FFFFFF"
-    alt="Alina Zeeshan GitHub Stats"
-  />
-</p>
 
-<p align="center">
-  <strong>🌟 GitHub Contributions:</strong>
-  <!-- CONTRIBUTIONS_START -->146<!-- CONTRIBUTIONS_END -->
-</p>
+
+
+
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
@@ -78,6 +70,13 @@
     src="https://streak-stats.demolab.com/?user=alinazeeshan&hide_border=true&background=0D1117&ring=B983FF&fire=B983FF&currStreakLabel=B983FF&sideLabels=B983FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
     alt="GitHub Streak"
   />
+</p>
+
+<p align="center">
+  <strong>🌟 Total GitHub Contributions</strong><br>
+  <span style="color:#B983FF; font-size:28px;">
+    <!-- CONTRIBUTIONS_START --><!-- CONTRIBUTIONS_END -->
+  </span>
 </p>
 
 <h2 align="center">🐍 Contribution Graph</h2>
