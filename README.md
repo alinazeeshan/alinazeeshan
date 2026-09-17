@@ -57,24 +57,25 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,django,mongodb,git,github,vscode,figma&perline=13"/>
 </p>
 
-
-
-
-
-
-
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=alinazeeshan&hide_border=true&background=0D1117&ring=B983FF&fire=B983FF&currStreakLabel=B983FF&sideLabels=B983FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
+    src="https://streak-stats.demolab.com/?user=alinazeeshan&hide_border=true&background=0D1117&ring=B983FF&fire=B983FF&currStreakLabel=B983FF&sideLabels=B983FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&cache_seconds=1800"
     alt="GitHub Streak"
   />
 </p>
 
+<h2 align="center">📊 Contribution Graph</h2>
 
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=alinazeeshan&bg_color=0D1117&color=B983FF&line=B983FF&point=FFFFFF&area=true&hide_border=true"
+    alt="Contribution Graph"
+  />
+</p>
 
-<h2 align="center">🐍 Contribution Graph</h2>
+<h2 align="center">🐍 Contribution chart</h2>
 
 <p align="center">
   <img
