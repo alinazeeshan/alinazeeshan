@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-  Hey there, I'm <span style="color:#B983FF;">Alina</span> 👋
+  Hey there, I'm <span style="color:#B983FF;">Alina Zeeshan</span> 👋
 </h1>
 
 <p align="center">
