@@ -41,7 +41,7 @@
 <td width="35%" align="center" valign="middle">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rounded&color=0:1A1A2E,50:6A2C91,100:B983FF&height=180&section=header&text=ALINA&fontSize=45&fontColor=FFFFFF&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=rounded&color=0:1A1A2E,50:6A2C91,100:B983FF&height=180&section=header&text=ALINA ZEESHAN&fontSize=45&fontColor=FFFFFF&animation=fadeIn"
   width="160"
   alt="Alina"
 />
